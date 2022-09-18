@@ -1,0 +1,9 @@
+build*
+*.user
+.qmake.stash
+*.exe
+debug
+release
+tmp
+.qtc_clangd
+Makefile
