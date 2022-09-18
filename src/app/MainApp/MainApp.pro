@@ -10,7 +10,8 @@ SOURCES += \
     mainapp.cpp
 
 HEADERS += \
-    mainapp.h
+    mainapp.h \
+    plugin_interface.h
 
 FORMS += \
     mainapp.ui

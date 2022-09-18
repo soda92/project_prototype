@@ -6,4 +6,5 @@ debug
 release
 tmp
 .qtc_clangd
-Makefile
+Makefile*
+plugin/*
