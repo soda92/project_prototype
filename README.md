@@ -1,3 +1,3 @@
 # project_prototype
 
-Qt complex application prototype(qmake based).
+plugin-based Qt application (using qmake).
